@@ -1,4 +1,4 @@
-rico.github.io
+bakarico.github.io
 ==============
 
 Bakarico's Blog
