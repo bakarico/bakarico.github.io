@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Hello World, and welcome to my blog!
+title: 你好世界
 ---
 
 ### <center>{{ page.title }}<center> ###
 <small><center> {{ page.date | date_to_string }} </center></small>
 
-这是我的第一篇文章，在这新的一年。  
-这一年咱正式进入一个正常程序员的圈子，无论是 V2EX 还是 Github，总之，咱要努力呢！  
-嗯，你好世界！  
-
-;D  
+你好世界。  
+2015 年的第一天，我建立了这个 Blog，大概是记录自己的日常，还有一些学习上的笔记。更好的是记录自己在学习中所领悟到的一些新的东西——当然这些东西可遇不可求。  
+自己也浑浑噩噩度过了十几年，于情于理都应该让自己真正的站起来了，不去依靠其他人了。所以给自己铺建一条新的道路，也是我建立这个 Blog 的用意。  
+首先自我介绍一下好了，你可以叫我 rico，Yawaza Rico。嗯，虽然我不是 LL 教徒，但是 nico 的确是我的本命。我的电子邮箱是 [yawaza.nico@gmail.com](yawaza.nico@gmail.com)，如果想联系我的话，可以给我发邮件。另外虽然我现在不怎么用 QQ，但是可能我会去申请一个…我也比较懒散，不怎么在社交网络上扯，唯一逛的圈子也就是 v2ex，我的 id 是 [ricoricori](http://www.v2ex.com/member/ricorico)。我现在在重庆上大学，是一个不知名的二本学校，不提也罢。另外我的技能点偏向于…啊，什么都不会=口=…  
+总之，我会在 2015 这一年慢慢成长起来。年底的时候再来回顾我的 Blog，大概会有一番新的变化吧。:P  
