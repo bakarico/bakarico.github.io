@@ -4,7 +4,7 @@ title: 你好世界
 ---
 
 ### <center>{{ page.title }}<center> ###
-<small><center> {{ page.date | date_to_string }} </center></small>
+*<center> {{ page.date | date_to_string }} </center>*
 
 你好世界。  
 
