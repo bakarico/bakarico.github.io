@@ -3,6 +3,15 @@
     margin: 0 auto;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.date {
+    float: right;
+}
+
 input,button,select,textarea{outline:none}
 
 .name a {
