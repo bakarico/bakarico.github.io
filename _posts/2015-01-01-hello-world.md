@@ -3,9 +3,6 @@ layout: posts
 title: 你好世界
 ---
 
-### <center>{{ page.title }}<center> ###
-*<center> {{ page.date | date_to_string }} </center>*
-
 你好世界。  
 
 2015 年的第一天，我建立了这个 Blog，大概是记录自己的日常，还有一些学习上的笔记。更好的是记录自己在学习中所领悟到的一些新的东西——当然这些东西可遇不可求。  
