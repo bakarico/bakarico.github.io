@@ -6,8 +6,8 @@ title: 这是一个主页喵 (๑`･ᴗ･´๑)
 <ul>
     {% for post in site.posts %}
         <li>
-            <i>{{ post.date | date_to_string }}</i> | 
             <a href="{{ post.url }}">{{ post.title }}</a>
+            <i class="date">{{ post.date | date_to_string }}</i>
         </li>
     {% endfor %}
 </ul>
