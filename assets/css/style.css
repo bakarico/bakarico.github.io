@@ -34,12 +34,12 @@ aside {
 }
 
 nav.nav {
-    padding-top: 20px;
+    padding-top: 0.67em;
 }
 
 header > nav > a {
     display: inline-block;
-    padding: 0 30px
+    padding: 0 12px
 }
 
 .article, .archives {
