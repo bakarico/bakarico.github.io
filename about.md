@@ -8,3 +8,6 @@ title: About me & Friends
 
 // [yawaza.nico@gmail.com](mailto:yawaza.nico@gmail.com)  
 // [Nya~](javascript:alert(/Nya :3/))  
+
+### 友情链接
+[creeper 菊苣的 blog](http://www.geekleo.net/)
